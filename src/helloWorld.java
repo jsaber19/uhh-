@@ -5,5 +5,7 @@ public class helloWorld {
 
         // This is a comment that I added in the branch test_branch.
         // Let's see what happens to this stuff...
+
+        // New stuff...
     }
 }
